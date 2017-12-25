@@ -1,0 +1,14 @@
+NmeaParser	KEYWORD1
+
+encode	KEYWORD2
+getTermsCount	KEYWORD2
+getTerm	KEYWORD2
+createStatement	KEYWORD2
+append	KEYWORD2
+append	KEYWORD2
+append	KEYWORD2
+append	KEYWORD2
+append	KEYWORD2
+clearStatement	KEYWORD2
+getStatement	KEYWORD2
+getIncompleteStatementsCount	KEYWORD2
